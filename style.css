@@ -1,0 +1,56 @@
+* {
+    font-family: 'Arial', sans-serif;
+}
+
+.Global {
+    background-color: #F5F5F5;
+    width:80%;
+    font-family: 'Arial', sans-serif;
+    margin: 0px;
+}
+.app-bar {
+    background-color: #3F51B5;
+    color: white;
+}
+.channel {
+    color:black;
+    list-style-type: none;
+    background-color: white;
+}
+.tab-bar {
+    background-color: white;
+    color: black;
+    text-transform: uppercase;
+    border:none;
+    font-size: 13px;
+    width: 32.8%;
+    height: 72px;
+    margin: 0px;
+}
+.message{
+    background-color: white;
+    margin-bottom: 8px;
+    font-size: medium;
+    padding: 16px;
+    
+}
+
+.message .button {
+    background-color: #CDDC39;
+    color: black;
+    text-transform: uppercase;
+}
+.message .location {
+    text-transform: uppercase;
+    color:black;
+}
+
+.message .meta {
+    font-size: medium;
+}
+
+.message .em {
+    font-size: larger;
+    font-style: normal;
+}
+
